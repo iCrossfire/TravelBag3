@@ -156,7 +156,7 @@
 # /胖东来|于东来/ => 胖东来
 
 /cTrip|\bctrip\b|\btrip\b|携程/ => 携程
-/艾玛迪斯|中航信|中国航信|\bAmadeus\b|\b1A\b|\b1E\b\|\bSabre\b|\bTravelport\b|\bTravelsky\b|\bIDEMIA\b/ => GDS
+/艾玛迪斯|中航信|中国航信|\bAmadeus\b|\b1A\b|\b1E\b\|\bSabre\b|\bTravelport\b|\bTravelsky\b|\bIDEMIA\b|雄帝|\bxiongdi\b/ => GDS
 /航旅|航空|机票|机票代理人/ => 航旅
 
 /本体论|\bPalantir\b|\bOntology\b/ => Palantir
